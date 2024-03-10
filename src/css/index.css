@@ -125,3 +125,19 @@ section.location {
 .location-detail-card p {
   margin-top: 35px;
 }
+
+/* FOOTER */
+
+.contact {
+  height: 200px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.contact h5 {
+  margin: 20px 0;
+}
+
+.copy-right {
+  padding-left: 20px;
+}
