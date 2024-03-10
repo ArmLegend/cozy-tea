@@ -65,3 +65,34 @@ nav ul li {
   text-align: center;
   padding: 10px 0;
 }
+
+/* FEATURED TEA SECTION  */
+
+.featured-tea {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.featured-tea-text {
+  margin-top: 40px;
+}
+.featured-tea h2,
+.featured-tea h4 {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.featured-tea-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.featured-tea-card {
+  width: 300px;
+  margin: 10px 15px;
+}
+
+.featured-tea-card img {
+  height: 200px;
+}
