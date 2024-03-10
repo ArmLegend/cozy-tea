@@ -96,3 +96,32 @@ nav ul li {
 .featured-tea-card img {
   height: 200px;
 }
+
+/* LOCATION */
+section.location {
+  width: 1200px;
+  height: 500px;
+  background-image: url("../assets/img-locations-background.jpg");
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.location-title {
+  text-align: center;
+}
+.location-detail-container {
+  display: flex;
+}
+
+.location-detail-card {
+  background-color: black;
+  width: 300px;
+  margin: 15px 20px;
+  text-align: center;
+  padding: 20px 0;
+}
+.location-detail-card p {
+  margin-top: 35px;
+}
